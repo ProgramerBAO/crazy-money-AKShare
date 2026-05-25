@@ -1,0 +1,15 @@
+# Web Framework
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+
+# Data Processing
+pandas~=3.0.2
+pyarrow~=19.0.0
+numpy>=1.24.0
+
+# Data Source
+akshare~=1.18.60
+
+# System
+psutil==7.2.2
