@@ -249,7 +249,7 @@ crazy-money-AKShare/
 #### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/crazy-money-AKShare.git
+git clone https://github.com/ProgramerBAO/crazy-money-AKShare.git
 cd crazy-money-AKShare
 ```
 
@@ -1058,7 +1058,7 @@ http://localhost:3000/admin
 
 ```bash
 # 1. 克隆代码
-git clone <repository-url>
+git clone https://github.com/ProgramerBAO/crazy-money-AKShare.git
 cd crazy-money-AKShare
 
 # 2. 安装后端
@@ -1217,8 +1217,8 @@ server {
 
 ## 联系方式
 
-- **项目主页**: https://github.com/yourusername/crazy-money-AKShare
-- **问题反馈**: https://github.com/yourusername/crazy-money-AKShare/issues
+- **项目主页**: https://github.com/ProgramerBAO/crazy-money-AKShare
+- **问题反馈**: https://github.com/ProgramerBAO/crazy-money-AKShare/issues
 
 ---
 
